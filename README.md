@@ -1,4 +1,4 @@
-# CRUCIAL
+# Crucial
 _Stateful Distributed Applications over Serverless Architectures_
 
 Function-as-a-Service (FaaS) enables programmers to develop cloud applications
